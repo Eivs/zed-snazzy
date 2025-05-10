@@ -1,0 +1,7 @@
+id = "snazzy"
+name = "Snazzy"
+schema_version = 1
+version = "0.1.0"
+authors = ["eivs <eivs@live.com>"]
+description = "Snazzy themes for Zed"
+repository = "https://github.com/Eivs/zed-snazzy"
