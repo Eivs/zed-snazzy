@@ -1,7 +1,7 @@
 id = "snazzy"
 name = "Snazzy"
 schema_version = 1
-version = "0.1.0"
+version = "0.1.1"
 authors = ["eivs <eivs@live.com>"]
 description = "A port of the popular Snazzy color scheme for the Zed editor."
 repository = "https://github.com/Eivs/zed-snazzy"
