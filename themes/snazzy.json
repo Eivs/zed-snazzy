@@ -146,8 +146,8 @@
         "surface.background": "#232631ff",
         "syntax": {
           "attribute": {
-            "color": "#f3f99dff",
-            "font_style": "italic",
+            "color": "#5af78eff",
+            "font_style": null,
             "font_weight": null
           },
           "boolean": {
@@ -296,7 +296,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#eff0ebff",
+            "color": "#57c7ffff",
             "font_style": null,
             "font_weight": null
           },
@@ -396,8 +396,8 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#ff6ac1ff",
-            "font_style": "italic",
+            "color": "#9aedfeff",
+            "font_style": null,
             "font_weight": null
           },
           "parameter": {
@@ -657,8 +657,8 @@
         "surface.background": "#232631CC",
         "syntax": {
           "attribute": {
-            "color": "#f3f99dff",
-            "font_style": "italic",
+            "color": "#5af78eff",
+            "font_style": null,
             "font_weight": null
           },
           "boolean": {
@@ -807,7 +807,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#eff0ebff",
+            "color": "#57c7ffff",
             "font_style": null,
             "font_weight": null
           },
@@ -907,8 +907,8 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#ff6ac1ff",
-            "font_style": "italic",
+            "color": "#9aedfeff",
+            "font_style": null,
             "font_weight": null
           },
           "parameter": {
